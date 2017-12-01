@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<iniSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <COM_ModeXML>false</COM_ModeXML>
+  <PortNameXML>COM4</PortNameXML>
+  <BaudRateXML>9600</BaudRateXML>
+  <AutoConnXML>false</AutoConnXML>
+</iniSettings>

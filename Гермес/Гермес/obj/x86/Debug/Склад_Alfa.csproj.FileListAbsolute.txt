@@ -1,0 +1,10 @@
+E:\Женя\C#\Торговая автоматизация\Склад_Alfa\Склад_Alfa\bin\Debug\Склад_Alfa.exe
+E:\Женя\C#\Торговая автоматизация\Склад_Alfa\Склад_Alfa\bin\Debug\Склад_Alfa.pdb
+E:\Женя\C#\Торговая автоматизация\Склад_Alfa\Склад_Alfa\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Женя\C#\Торговая автоматизация\Склад_Alfa\Склад_Alfa\obj\x86\Debug\Склад_Alfa.Properties.Resources.resources
+E:\Женя\C#\Торговая автоматизация\Склад_Alfa\Склад_Alfa\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Женя\C#\Торговая автоматизация\Склад_Alfa\Склад_Alfa\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Женя\C#\Торговая автоматизация\Склад_Alfa\Склад_Alfa\obj\x86\Debug\Склад_Alfa.exe
+E:\Женя\C#\Торговая автоматизация\Склад_Alfa\Склад_Alfa\obj\x86\Debug\Склад_Alfa.pdb
+E:\Женя\C#\Торговая автоматизация\Склад_Alfa\Склад_Alfa\obj\x86\Debug\Склад_Alfa.Form2.resources
+e:\Женя\C#\Торговая автоматизация\Склад_Alfa\Склад_Alfa\obj\x86\Debug\Склад_Alfa.Form1.resources
